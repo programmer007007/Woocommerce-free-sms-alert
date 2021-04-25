@@ -33,7 +33,7 @@ Here you can modify the template and the timing when you would like the sms to t
 
 <img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1619272191/r2_hhaobu.jpg" />
 
-Now let understand how to configure the android app,
+Now let understand how to configure the android app, You can download the apk here : <a href="https://freeotp.ricomart.com/assets/mobile-sms-gateway.apk">Apk Download</a>
 
 After you install and open the app the below page will be shown in your phone. Just enter the server name https://freeotp.ricomart.com
 
